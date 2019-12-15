@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Abstraction\Abstraction\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Abstraction\Abstraction\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\User\source\repos\Abstraction\Abstraction\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\User\source\repos\Abstraction\Abstraction\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\User\source\repos\Abstraction\Abstraction\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\User\source\repos\Abstraction\Abstraction\Interfaces\obj\Debug\Interfaces.pdb

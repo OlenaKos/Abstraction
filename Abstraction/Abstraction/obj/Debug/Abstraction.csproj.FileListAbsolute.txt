@@ -1,0 +1,12 @@
+D:\Homework C#\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+D:\Homework C#\Abstraction\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+D:\Homework C#\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+D:\Homework C#\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+D:\Homework C#\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+D:\Homework C#\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
+C:\Users\User\source\repos\Abstraction\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Users\User\source\repos\Abstraction\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+C:\Users\User\source\repos\Abstraction\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+C:\Users\User\source\repos\Abstraction\Abstraction\Abstraction\obj\Debug\Abstraction.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Abstraction\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+C:\Users\User\source\repos\Abstraction\Abstraction\Abstraction\obj\Debug\Abstraction.pdb
